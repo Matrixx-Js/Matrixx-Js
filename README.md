@@ -10,6 +10,9 @@
     - Xenos (1k) Discord Bot: https://discord.gg/gAtK8ArtzT
     - TiktokPLus Discord Bot: https://discord.gg/Qr7DbCZrS2
     - StreamAnime Discord Bot: https://discord.gg/streamanime
+    - Cocoflix Website Films
+    - Staranime Website Animes
+    - Watch-Zone Website Films
 
 <!---
 Matrixx-Js/Matrixx-Js is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
