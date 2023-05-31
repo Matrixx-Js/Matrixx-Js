@@ -10,6 +10,8 @@
     - Xenos (1k) Discord Bot: https://discord.gg/gAtK8ArtzT
     - TiktokPLus Discord Bot: https://discord.gg/Qr7DbCZrS2
     - StreamAnime Discord Bot: https://discord.gg/streamanime
+    - 3D Cars : https://3d-cars.000webhostapp.com/accueil.html
+    - Jeux Labyrinthe : https://jeux-labyrinthe.vercel.app/
     - Cocoflix Website Films
     - Staranime Website Animes
     - Watch-Zone Website Films
