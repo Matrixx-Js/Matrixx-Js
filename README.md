@@ -6,7 +6,7 @@
 
 
 - 🖥️ Project & Collaboration : 
-    - FRAnime (220k) https://franime.fr
+    - FRAnime (800k users/mois) https://franime.fr
     - Xenos (1k) Discord Bot: https://discord.gg/gAtK8ArtzT
     - TiktokPLus Discord Bot: https://discord.gg/Qr7DbCZrS2
     - StreamAnime Discord Bot: https://discord.gg/streamanime
