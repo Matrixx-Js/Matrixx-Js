@@ -12,6 +12,7 @@
     - StreamAnime Discord Bot: https://discord.gg/streamanime
     - 3D Cars : https://3d-cars.000webhostapp.com/accueil.html
     - Jeux Labyrinthe : https://jeux-labyrinthe.vercel.app/
+    - CineMatch : https://nsi-projet-fin-ann-e-frontend.vercel.app/
     - Cocoflix Website Films
     - Staranime Website Animes
     - Watch-Zone Website Films
