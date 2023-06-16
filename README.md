@@ -2,7 +2,7 @@
 - 👀 I’m interested in API Rest and Website
 - 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on good project
-- 📫 How to reach me discord Matrixx#0001
+- 📫 How to reach me discord "matrixx__"
 
 
 - 🖥️ Project & Collaboration : 
