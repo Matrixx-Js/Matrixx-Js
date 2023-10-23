@@ -6,7 +6,8 @@
 
 
 - 🖥️ Project & Collaboration : 
-    - FRAnime (800k users/mois) https://franime.fr
+    - FRAnime (800k users/mois) https://franime.fr [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/s8b3.svg)](https://uptime.betterstack.com/?utm_source=status_badge) API: [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/s8ax.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
+
     - Xenos (1k) Discord Bot: https://discord.gg/gAtK8ArtzT
     - TiktokPLus Discord Bot: https://discord.gg/Qr7DbCZrS2
     - StreamAnime Discord Bot: https://discord.gg/streamanime
